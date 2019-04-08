@@ -1,5 +1,11 @@
 # vue-element-admin-template
 
+这是一个后台框架模板
+
+使用了
+- ElementUI
+- ECharts
+
 ## Project setup
 ```
 npm install
